@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5a8caabc-b36b-49b2-b2a0-9ed66a9709b7" /># 🏭 Kovai MSME-Optima
+# 🏭 Kovai MSME-Optima
 
 > **AI-Powered Industrial Intelligence for Coimbatore's MSME Sector.**
 
@@ -33,9 +33,9 @@ Coimbatore is home to over 30,000 MSMEs (Textiles, Pumps, Foundries). As of **Ja
 
 Built with the latest **2026 Google Developer Tools**:
 
--   **Gemini 2.0 Flash:** Multimodal reasoning for bill image and audio analysis. Use the [Google AI Studio](aistudio.google.com) to generate API keys.
--   **Vertex AI:** Time-series forecasting and acoustic anomaly detection. Learn more at [Google Cloud Vertex AI](cloud.google.com).
--   **Firebase Genkit:** Orchestrating AI workflows and LLM prompts. View documentation at [Firebase Genkit](firebase.google.com).
+-   **Gemini 2.0 Flash:** Multimodal reasoning for bill image and audio analysis. Manage API keys at [Google AI Studio](aistudio.google.com).
+-   **Vertex AI:** Time-series forecasting and acoustic anomaly detection. Explore the platform at [Google Cloud Vertex AI](cloud.google.com).
+-   **Firebase Genkit:** Orchestrating AI workflows and LLM prompts. View the [Firebase Genkit Documentation](firebase.google.com).
 -   **Cloud Firestore:** Real-time persistence for factory profiles and energy logs.
 -   **Firebase Auth:** Secure production-grade SME owner authentication.
 -   **React (Vite) + Tailwind CSS v4:** High-performance, theme-able industrial UI.
@@ -82,9 +82,10 @@ Built with the latest **2026 Google Developer Tools**:
 
 ---
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e6f1a9bb-843f-477b-9971-77a9960d5616" />
-[MVP Demo](https://tech-sprint-mvp.web.app/)
+## 🌐 MVP Live Link
+[**Launch Kovai MSME-Optima MVP**](https://tech-sprint-mvp.web.app/)
 
+---
 
 ## 🤝 The Team
 
@@ -96,4 +97,4 @@ Developed with ❤️ in Coimbatore for the **GDG Tech Sprint Hackathon 2026**.
 
 ---
 
-*Disclaimer: This project is a prototype built for the GDG Open Innovation Challenge. All tariff calculations are based on TamilNadu Electricity Board January 2026 public data*
+*Disclaimer: This project is a prototype built for the GDG Open Innovation Challenge. All tariff calculations are based on Tamil Nadu Electricity Board (TANGEDCO) January 2026 public data.*
