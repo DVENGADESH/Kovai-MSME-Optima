@@ -1,4 +1,4 @@
-# 🏭 Kovai MSME-Optima
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5a8caabc-b36b-49b2-b2a0-9ed66a9709b7" /># 🏭 Kovai MSME-Optima
 
 > **AI-Powered Industrial Intelligence for Coimbatore's MSME Sector.**
 
@@ -81,6 +81,10 @@ Built with the latest **2026 Google Developer Tools**:
 [Watch the Presentation on YouTube](https://www.youtube.com/watch?v=RZDPokqMcJY)
 
 ---
+
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e6f1a9bb-843f-477b-9971-77a9960d5616" />
+[MVP Demo](https://tech-sprint-mvp.web.app/)
+
 
 ## 🤝 The Team
 
